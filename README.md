@@ -43,6 +43,10 @@
 
 ### Summary
 
+##### Based on this data analysis, we can conclude that 8497186.0 unt of Heating Oil need to keep in stock in order to meet the 42614 new customer’s demand. And each house hold expected to consume average 199.0 unit of heating oil in future.
+
+
+
 
 
 
