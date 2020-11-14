@@ -4,9 +4,6 @@
 
 ##### Data Analysis and Visualization
 ##### Linear Regression
-##### Polynomial Transformation
-##### Ridge Regression
-##### Random Forest
 
 ## Libraries Used
 
@@ -16,6 +13,7 @@
 ##### Scikit-learn
 ##### Matplotlib
 ##### SciPy
+
 
 ### Project Scenario 
 ##### A regional sales manager for a nationwide supply of fossil fuels for home heating wants to predict heating oil demand for the new customer. Her sales team is signing up thousands of new clients, and she wants to be sure the company will be able to meet this new level of demand. There are 42650 new customers and haven’t started consuming heating oil yet. She wants to know how much oil needs to expect to keep in stock in order to meet these new customer demands.
